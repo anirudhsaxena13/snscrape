@@ -1,0 +1,4 @@
+pip3 install snscrape
+
+However, this will not be the developer version. Instead, I recommend using the below command to download the snscrape dev version:
+pip3 install git+https://github.com/JustAnotherArchivist/snscrape.git
